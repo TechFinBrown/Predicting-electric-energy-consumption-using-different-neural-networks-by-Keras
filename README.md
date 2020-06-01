@@ -6,7 +6,7 @@ networks'
   - Using CNN-LSTM model architecture ; instead author CNN layer -> 1d cnn layer
   - http://sclab.yonsei.ac.kr/publications/Papers/IJ/2019_Energy_TYK.pdf
 
-- [1] CNN-Bi-LSTM.ipynb is reference 'Improving Electric Energy Consumption Prediction
+- [2] CNN-Bi-LSTM.ipynb is reference 'Improving Electric Energy Consumption Prediction
 Using CNN and Bi-LSTM'
   - Using CNN-Bi-LSTM model architecture ; 
   - http://sclab.yonsei.ac.kr/publications/Papers/IJ/2019_Energy_TYK.pdf
