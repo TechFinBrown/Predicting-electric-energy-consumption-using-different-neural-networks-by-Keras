@@ -1,5 +1,12 @@
 # Predicting-electric-energy-consumption-using-different-neural-networks-by-Keras
 
+-These codes are used to experimentally record the paper you see, and practice building NN models to compare the effects of different NNs.
+-There are some experimental or long redundant traces in the code.
+
+-requirements
+ - Keras
+ - tensorflow-gpu
+
 Referece 
 - [1] CNN-LSTM.ipynb is reference 'Predicting residential energy consumption using CNN-LSTM neural
 networks'
